@@ -1,0 +1,97 @@
+WARNING:fake_useragent:Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:There is no [linux64] geckodriver for browser 104.0 in cache
+INFO:WDM:Getting latest mozilla release info for v0.31.0
+INFO:WDM:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-linux64.tar.gz
+INFO:WDM:Driver has been saved in cache [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31]
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [/home/twopercent/.wdm/drivers/geckodriver/linux64/0.31/geckodriver] found in cache
+WARNING:fake_useragent:Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
+WARNING:fake_useragent:Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
+WARNING:fake_useragent:Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/homemebel/venv/lib/python3.10/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
